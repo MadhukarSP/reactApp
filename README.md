@@ -109,6 +109,7 @@
 		webpack: wait until bundle finished: /
 		…
 * Open browser and type : http://localhost:8080/, you will see “Hello World!!!” on screen.
-* Additionally install react-router and react-redux as well
+* Additionally install react-router, react-redux as well and react-addons-css-transition-group [for css styling and Animation]
   * npm install react-router
   * npm install --save react-redux
+  * npm install react-addons-css-transition-group
